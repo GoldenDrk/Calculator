@@ -58,7 +58,7 @@
     height: 17vh;
     align-content: center;
     font-family: 'Orbitron', sans-serif;
-    font-size: 4rem;
+    font-size: 4rem !important;
     color: #d0f;
     text-shadow: 0 0 5px #d0f, 0 0 10px #d0f, 0 0 20px #a0f, 0 0 30px #a0f, 0 0 40px #f0f;
     background: linear-gradient(90deg, #d0f, #a0f);
